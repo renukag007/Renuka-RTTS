@@ -1,0 +1,11 @@
+Model Information:
+* title:	Blender_Competition
+* source:	https://sketchfab.com/3d-models/blender-competition-1c1d991e59374d6884dc088f50159e2a
+* author:	Andreas20110809 (https://sketchfab.com/Andreas20110809)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Blender_Competition" (https://sketchfab.com/3d-models/blender-competition-1c1d991e59374d6884dc088f50159e2a) by Andreas20110809 (https://sketchfab.com/Andreas20110809) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
